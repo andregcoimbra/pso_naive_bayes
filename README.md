@@ -19,11 +19,11 @@ A função de fitness maximiza o F1-Score médio entre as duas classes, penaliza
 ## Estrutura do projeto
 
 ```
-pso_naive_base_chagas/
-├── pso_naivebayes.py   # Script principal
+pso_naive_bayes/
+├── pso_naive_bayes.py  # Script principal
 ├── dados_chagas.csv    # Base de dados (Doença de Chagas)
-├── requirements.txt    # Dependências Python
-└── README.md           # Este arquivo
+└── requirements.txt    # Dependências Python
+README.md               # Este arquivo
 ```
 
 ---
@@ -80,7 +80,7 @@ Além disso, é exibido o gráfico do histórico do F1-Score ao longo das época
 
 ## Dependências
 
-Veja [requirements.txt](requirements.txt).
+Veja [requirements.txt](pso_naive_bayes/requirements.txt).
 
 ---
 
